@@ -1,4 +1,4 @@
 ### Laser Tag - Presented by SoftMC
-**Laser Tag** is a classic minigame currently in devolpment with the main goal being to deliver an event quailty experince for anyone to download!
+Laser Tag is a classic minigame currently in development with the main goal being to deliver an event-quality experience for anyone to download!
 
 ### **MORE INFO UPCOMING**
